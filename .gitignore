@@ -1,0 +1,5 @@
+# Ignorar archivos compilados
+/bin/
+
+# Ignorar configuraciones específicas de VS Code
+.vscode/
